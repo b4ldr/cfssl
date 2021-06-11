@@ -1,0 +1,5 @@
+cfssl (1.6.0-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: TODO)
+
+ -- John Bond <jbond@wikimedia.org>  Fri, 11 Jun 2021 16:18:17 +0100
